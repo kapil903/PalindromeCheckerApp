@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class UseCase13PalindromeCheckerApp {
+public class PalindromeCheckerApp {
 
     public static boolean reverseMethod(String word){
 
